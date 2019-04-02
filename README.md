@@ -49,3 +49,5 @@
 [领略浏览器开发者工具](https://www.jianshu.com/p/76a20b1cb3ca)
 
 [RequireJs简单使用](https://www.jianshu.com/p/c90fff39c225)
+
+[Vue 应用性能优化指南](https://juejin.im/post/5b960fcae51d450e9d645c5f)
