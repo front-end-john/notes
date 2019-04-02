@@ -59,3 +59,5 @@
 [vue框架下部署上线后刷新报404问题解决方案](https://juejin.im/post/5ca2bc1ee51d4506e642fd5b)
 
 [ES6、ES7、ES8、ES9、ES10新特性一览](https://juejin.im/post/5ca2e1935188254416288eb2)
+
+[前端工程师面试题（性能优化）](https://juejin.im/entry/5b30b64c51882574d32496de)
