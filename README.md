@@ -50,6 +50,8 @@
 
 [RequireJs简单使用](https://www.jianshu.com/p/c90fff39c225)
 
+[React 16 加载性能优化指南](https://juejin.im/post/5b506ae0e51d45191a0d4ec9)
+
 [Vue 应用性能优化指南](https://juejin.im/post/5b960fcae51d450e9d645c5f)
 
 [优化向：单页应用多路由预渲染指南](https://juejin.im/post/59d49d976fb9a00a571d651d)
