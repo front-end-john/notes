@@ -57,3 +57,5 @@
 [优化向：单页应用多路由预渲染指南](https://juejin.im/post/59d49d976fb9a00a571d651d)
 
 [vue框架下部署上线后刷新报404问题解决方案](https://juejin.im/post/5ca2bc1ee51d4506e642fd5b)
+
+[ES6、ES7、ES8、ES9、ES10新特性一览](https://juejin.im/post/5ca2e1935188254416288eb2)
