@@ -47,3 +47,5 @@
 [抓包工具Charles的使用教程](https://www.cnblogs.com/jiayuchn-test/p/8875105.html)
 
 [领略浏览器开发者工具](https://www.jianshu.com/p/76a20b1cb3ca)
+
+[RequireJs简单使用](https://www.jianshu.com/p/c90fff39c225)
