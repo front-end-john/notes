@@ -66,4 +66,4 @@
 
 [页面优化，谈谈重绘(repaint)和回流(reflow)](https://www.cnblogs.com/echolun/p/10105223.html)
 
-[在vue-cli3.0中添加骨架屏](https://www.jianshu.com/p/cb5717c5948f)
+[vue-cli3 配置骨架屏方案](https://www.jianshu.com/p/db7abd05c219)
