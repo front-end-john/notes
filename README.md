@@ -65,3 +65,5 @@
 [Webpack 模块打包原理](https://juejin.im/post/5c94a2f36fb9a070fc623df4)
 
 [页面优化，谈谈重绘(repaint)和回流(reflow)](https://www.cnblogs.com/echolun/p/10105223.html)
+
+[在vue-cli3.0中添加骨架屏](https://www.jianshu.com/p/cb5717c5948f)
