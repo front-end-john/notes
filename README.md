@@ -61,3 +61,5 @@
 [ES6、ES7、ES8、ES9、ES10新特性一览](https://juejin.im/post/5ca2e1935188254416288eb2)
 
 [前端工程师面试题（性能优化）](https://juejin.im/entry/5b30b64c51882574d32496de)
+
+[Webpack 模块打包原理](https://juejin.im/post/5c94a2f36fb9a070fc623df4)
