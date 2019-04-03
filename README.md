@@ -67,3 +67,7 @@
 [页面优化，谈谈重绘(repaint)和回流(reflow)](https://www.cnblogs.com/echolun/p/10105223.html)
 
 [vue-cli3 配置骨架屏方案](https://www.jianshu.com/p/db7abd05c219)
+
+[JS 中 call、apply、bind 那些事](https://juejin.im/entry/5812edcea22b9d006779b067)
+
+
