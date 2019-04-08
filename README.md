@@ -72,4 +72,5 @@
 
 [web前端各浏览器兼容性问题(干货，亲测有效)](https://blog.csdn.net/weixin_41830601/article/details/79908597)
 
+[来，让我们谈一谈 Normalize.css](https://jerryzou.com/posts/aboutNormalizeCss/)
 
