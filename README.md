@@ -70,4 +70,6 @@
 
 [JS 中 call、apply、bind 那些事](https://juejin.im/entry/5812edcea22b9d006779b067)
 
+[web前端各浏览器兼容性问题(干货，亲测有效)](https://blog.csdn.net/weixin_41830601/article/details/79908597)
+
 
