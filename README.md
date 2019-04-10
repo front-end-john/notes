@@ -74,3 +74,4 @@
 
 [来，让我们谈一谈 Normalize.css](https://jerryzou.com/posts/aboutNormalizeCss/)
 
+[【面试篇】寒冬求职季之你必须要懂的原生JS(上)](https://juejin.im/post/5cab0c45f265da2513734390)
