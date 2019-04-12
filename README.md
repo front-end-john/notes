@@ -75,3 +75,5 @@
 [来，让我们谈一谈 Normalize.css](https://jerryzou.com/posts/aboutNormalizeCss/)
 
 [【面试篇】寒冬求职季之你必须要懂的原生JS(上)](https://juejin.im/post/5cab0c45f265da2513734390)
+
+[[译] 图解 Map、Reduce 和 Filter 数组方法](https://juejin.im/post/5caf030d6fb9a068736d2d7c)
