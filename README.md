@@ -35,6 +35,7 @@ vim /usr/local/etc/nginx/nginx.conf // 编辑
 ## 三、nginx服务器配置vue-router history模式
 ### example
 [nginx服务器配置vue-router history模式（去除url中的#号）](https://juejin.im/post/5c243179e51d450cfe736fb3)
+
 [vue router react router使用History模式的nginx配置](https://juejin.im/post/5c71004351882524c84f23a0)
 
 ### js-vue-ui项目配置history 模式
