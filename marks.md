@@ -84,3 +84,5 @@
 
 [Vue下路由History模式打包后页面空白](https://juejin.im/post/5b39e8ac6fb9a00e406aa7d1)
 
+[Nginx虚拟目录alias和root目录](https://www.cnblogs.com/kevingrace/p/6187482.html)
+

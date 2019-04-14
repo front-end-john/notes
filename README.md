@@ -36,3 +36,26 @@ vim /usr/local/etc/nginx/nginx.conf // 编辑
 ### example
 [nginx服务器配置vue-router history模式（去除url中的#号）](https://juejin.im/post/5c243179e51d450cfe736fb3)
 [vue router react router使用History模式的nginx配置](https://juejin.im/post/5c71004351882524c84f23a0)
+
+### config data
+
+```
+llocation / {
+     #root   html;#项目路径
+     root /develoment/git/code/www/js-vue-ui; #项目路径
+     index  index.html index.htm;
+     try_files $uri $uri/ /index.html; #匹配不到任何静态资源，跳到同一个index.html
+ }
+
+ location /code {
+     alias /develoment/git/code;
+     index index.html;
+ }
+ location /js-vue-ui {
+     alias /develoment/git/code/www/js-vue-ui;
+     index  index.html index.htm;
+     try_files $uri $uri/ /index.html; #匹配到js-vue-ui，跳到index.html
+ }
+
+
+```
