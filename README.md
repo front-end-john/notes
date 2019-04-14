@@ -9,6 +9,10 @@
 ```
 https://juejin.im/post/5cae9de95188251ae2324ec3
 ```
+### Vue下路由History模式打包后页面空白
+```
+https://juejin.im/post/5b39e8ac6fb9a00e406aa7d1
+```
 ### config nginx
 ```
 vim /usr/local/etc/nginx/nginx.conf // 编辑

@@ -79,4 +79,8 @@
 [【面试篇】寒冬求职季之你必须要懂的原生JS(上)](https://juejin.im/post/5cab0c45f265da2513734390)
 
 [[译] 图解 Map、Reduce 和 Filter 数组方法](https://juejin.im/post/5caf030d6fb9a068736d2d7c)
+
 [前端想要了解的Nginx](https://juejin.im/post/5cae9de95188251ae2324ec3)
+
+[Vue下路由History模式打包后页面空白](https://juejin.im/post/5b39e8ac6fb9a00e406aa7d1)
+
