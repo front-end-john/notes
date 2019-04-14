@@ -40,8 +40,13 @@ vim /usr/local/etc/nginx/nginx.conf // 编辑
 
 ### js-vue-ui项目配置history 模式
 
+``` 
+    浏览器访问URL： 
+    http://localhost:443 或 http://localhost:443/js-vue-ui
 ```
-nginx 配置:
+
+```
+nginx 配置，解决访问子路由页面匹配不到目录问题，访问／则跳到同一个index.html：
 location / {
      #root   html;#项目路径
      root /develoment/git/code/www/js-vue-ui; #项目路径
