@@ -13,7 +13,7 @@ https://juejin.im/post/5cae9de95188251ae2324ec3
 ```
 https://juejin.im/post/5b39e8ac6fb9a00e406aa7d1
 ```
-### config nginx
+### use nginx
 ```
 vim /usr/local/etc/nginx/nginx.conf // 编辑
 
@@ -37,10 +37,11 @@ vim /usr/local/etc/nginx/nginx.conf // 编辑
 [nginx服务器配置vue-router history模式（去除url中的#号）](https://juejin.im/post/5c243179e51d450cfe736fb3)
 [vue router react router使用History模式的nginx配置](https://juejin.im/post/5c71004351882524c84f23a0)
 
-### config data
+### js-vue-ui项目配置history 模式
 
 ```
-llocation / {
+nginx 配置:
+location / {
      #root   html;#项目路径
      root /develoment/git/code/www/js-vue-ui; #项目路径
      index  index.html index.htm;
@@ -56,6 +57,15 @@ llocation / {
      index  index.html index.htm;
      try_files $uri $uri/ /index.html; #匹配到js-vue-ui，跳到index.html
  }
+```
 
+```
+router.js 配置:
+  base: '/js-vue-ui',  // 浏览器URL 基础路径
+  mode: 'history'
+```
 
+``` 
+vue.config.js 配置：
+  publicPath: './', // css js img 使用相对路径
 ```
