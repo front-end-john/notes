@@ -1,11 +1,11 @@
 # 前端笔记
-[包的描述](https://github.com/front-end-john/notes/packages-desc.md)
+[包的描述](https://github.com/front-end-john/notes/blob/master/packages-desc.md)
 
-[express 目录结构介绍](https://github.com/front-end-john/notes/express-dirname.md)
+[express 目录结构介绍](https://github.com/front-end-john/notes/blob/master/express-dirname.md)
 
-[react学习资料](https://github.com/front-end-john/notes/react.md)
+[react学习资料](https://github.com/front-end-john/notes/blob/master/react.md)
 
-[nodejs学习笔记+项目笔记](https://github.com/front-end-john/notes/nodejs.md)
+[nodejs学习笔记+项目笔记](https://github.com/front-end-john/notes/blob/master/nodejs.md)
 ## 一、运算题目
 [question](https://github.com/front-end-john/notes/projects/1)
 
