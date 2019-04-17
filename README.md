@@ -6,6 +6,9 @@
 [react学习资料](https://github.com/front-end-john/notes/blob/master/react.md)
 
 [nodejs学习笔记+项目笔记](https://github.com/front-end-john/notes/blob/master/nodejs.md)
+
+[gulp 配置部署代码到服务器](https://github.com/front-end-john/notes/blob/master/gulp-config.md)
+
 ## 一、运算题目
 [question](https://github.com/front-end-john/notes/projects/1)
 
