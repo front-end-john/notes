@@ -1,9 +1,27 @@
 # 前端笔记
+[包的描述](https://github.com/front-end-john/notes/packages-desc.md)
 
+[express 目录结构介绍](https://github.com/front-end-john/notes/express-dirname.md)
+
+[react学习资料](https://github.com/front-end-john/notes/react.md)
+
+[nodejs学习笔记+项目笔记](https://github.com/front-end-john/notes/nodejs.md)
 ## 一、运算题目
 [question](https://github.com/front-end-john/notes/projects/1)
 
-## 二、nginx 配置
+## 二、git命令和nginx 配置
+
+### git学习笔记
+
+``` 
+安装和配置git:
+参考:http://jingyan.baidu.com/article/a65957f4e91ccf24e77f9b11.html
+
+$ cat id_rsa //查看公钥，然后复制配置到自己的github帐号上
+$ git clone git@github.com:himiten/node_gw.git //克隆项目
+常用 Git 命令清单
+http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html
+```
 
 ### 前端想要了解的Nginx
 ```

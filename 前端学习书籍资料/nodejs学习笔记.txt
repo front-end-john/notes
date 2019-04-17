@@ -1,0 +1,48 @@
+REPL模式(Read-Evaluate-Print-Loop,输入-求值-输出-循环），即交互式命令行解析器
+
+Nodejs提供点号（.）开头的元命令，如 .help ----会显示帮助菜单
+				    .clear ----清除当前运行的内容
+				    .exit ----退出 Node
+eq1:解析器设置并显示对象
+
+> myObj = {};
+{}
+
+> myObj.list = ["a","b","c"];
+[ 'a', 'b', 'c' ]
+
+> myObj.doThat = function(first,second,third){console.log(first);};
+[Function]
+
+> myObj
+{ list: [ 'a', 'b', 'c' ], doThat: [Function] }
+
+eq2:编写首个服务器程序，存放d盘mydev目录下
+1.
+
+var http = require('http');
+http.createServer(function(req, res){
+	res.writeHead(200, {
+		'Content-Type': 'text/plain'
+	});
+	res.end('Hello World\n');
+}).listen(8124, '127.0.0.1');
+
+2.
+var http = require('http');
+http.createServer(function(req,res){
+  res.writeHead(200,{"Content-Type":"text/plain"});
+  res.write("Hello World");
+  res.end();
+}).listen(8888);
+
+使用cmd命令访问并运行hello.js
+H:\Users\ifeng>d:
+
+D:\>cd mydev
+
+D:\mydev>node hello.js
+然后打开浏览器访问http://127.0.0.1:8124/
+
+eq3:创建TCP服务器
+
