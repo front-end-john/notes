@@ -9,6 +9,8 @@
 
 [gulp 配置部署代码到服务器](https://github.com/front-end-john/notes/blob/master/gulp-config.md)
 
+[gitignore配置以及不起作用解决办法](https://github.com/front-end-john/notes/blob/master/gitignore.md)
+
 ## 一、运算题目
 [question](https://github.com/front-end-john/notes/projects/1)
 
