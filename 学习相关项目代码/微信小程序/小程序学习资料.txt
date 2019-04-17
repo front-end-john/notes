@@ -1,0 +1,45 @@
+最新进展：
+微信开发工具最新版本已向所有开发者放开测试，（不过部分功能无法使用请耐心等待）
+具体文档地址：https://mp.weixin.qq.com/wiki/
+
+历史资料：
+by文蔺 微信小程序demo https://pan.baidu.com/s/1o7KJbbc
+by 稀土掘金 微信开发者工具0.9版本
+Win：https://pan.baidu.com/s/1dEEVITV 密码: xitu
+Mac： https://pan.baidu.com/s/1pLzY4Bp 密码: xitu
+
+by 公举小白-程序员鼓励师?微信开发者工具0.7版本下载
+Win:https://pan.baidu.com/s/1csX346
+Mac:https://pan.baidu.com/s/1eRRKXxC
+
+by面包 微信应用号破解补丁
+https://pan.baidu.com/s/1miJb04C
+使用教程：替换两个文件即可
+http://blog.csdn.net/atangsir/article/details/52644613
+补充教程：有问题的话请先安装开发者工具0.7版本登录再用0.9版本打开即可
+
+从零开始学做微信小程序，看这些就够了！
+https://my.oschina.net/mrtudou/blog/784672
+http://www.iteye.com/news/31862
+
+Web设计和小程序使用的基础控件库
+https://weui.io/
+
+https://mp.weixin.qq.com/debug/wxadoc/design/#利用接口提升性能
+sketch设计控件库
+https://github.com/weui/weui-design
+
+app.js是小程序的脚本代码，可以在这个文件中监听并处理小程序的生命周期函数、声明全局变量等。
+app.json是整个小程序的全局配置，可以配置小程序由那些页面组成（pages）、窗口（window）、导航条样式（tabBar）
+、默认标题等，该文件不可加注释。
+app.wxss是整个小程序的公共样式表。
+
+单位转换：2px = 1pt
+
+微信小程序实战
+http://www.jianshu.com/p/4433d46e6235
+
+使用ES6新特性开发微信小程序
+https://segmentfault.com/a/1190000007956210
+
+http://blog.csdn.net/github_36111469/article/details/53206769
