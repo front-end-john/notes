@@ -1,4 +1,6 @@
-# gulpfile.js
+# gulp 配置部署代码到服务器
+
+## gulpfile.js 配置
 
 ``` 
 // var combiner = require('stream-combiner2');
@@ -56,13 +58,11 @@ gulp.task('execSSH', () => {
 
 ```
 
-#gulp 配置部署代码到服务器
+# config.${env}.js 配置
 
 [了解gulp](https://www.gulpjs.com.cn/)
 
 ``` 
-config.${env}.js
-
 var fs = require('fs');
 var appName = 'home';
 module.exports = {
