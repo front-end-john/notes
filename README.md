@@ -17,6 +17,8 @@
 ## 一、运算题目
 [question](https://github.com/front-end-john/notes/projects/1)
 
+[前端笔试测试题](https://github.com/front-end-john/notes/blob/master/test.md)
+
 ## 二、git命令和nginx 配置
 
 ### gradle配置环境变量
