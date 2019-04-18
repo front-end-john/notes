@@ -11,13 +11,34 @@
 
 [gitignore配置以及不起作用解决办法](https://github.com/front-end-john/notes/blob/master/gitignore.md)
 
+[微信相关](https://github.com/front-end-john/notes/blob/master/wechat.md)
+
+[Vue学习资料](https://github.com/front-end-john/notes/blob/master/vue.md)
 ## 一、运算题目
 [question](https://github.com/front-end-john/notes/projects/1)
 
 ## 二、git命令和nginx 配置
 
-### git学习笔记
+### gradle配置环境变量
 
+``` 
+/usr/local/Cellar/gradle/4.7
+
+GRADLE_HOME=/usr/local/Cellar/gradle/4.7
+export GRADLE_HOME
+export PATH=$PATH:$GRADLE_HOME/bin
+
+```
+### webstorm 格式化代码及常用快捷键
+
+``` 
+windows 下 webstorm 格式化代码的快键键 Ctrl+Alt+l
+ 
+mac 下 webstorm 格式化代码的快捷键 Option+Command+l
+
+```
+
+### git学习笔记
 ``` 
 安装和配置git:
 参考:http://jingyan.baidu.com/article/a65957f4e91ccf24e77f9b11.html
@@ -26,6 +47,20 @@ $ cat id_rsa //查看公钥，然后复制配置到自己的github帐号上
 $ git clone git@github.com:himiten/node_gw.git //克隆项目
 常用 Git 命令清单
 http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html
+
+git之切换分支
+
+查看本地分支    git branch        
+查看远程分支    git branch -r     
+切换分支           git checkout -b  dev origin/dev
+查看所属分支    git branch -a
+
+git checkout master
+
+git强制提交
+git add .
+git commit -m "your comment"
+git push -u origin master -f
 ```
 
 ### 前端想要了解的Nginx
@@ -119,6 +154,14 @@ ssh ubuntu@192.168.1.1
 scp home.tar.gz ubuntu@192.168.1.1
 ```
 ## 六、macOS系统相关操作命令
+
+``` 
+复制文件夹内所有文件到另一个文件夹
+    cp -rf /home/user1/* /root/temp/
+    将 /home/user1目录下的所有东西拷到/root/temp/下而不拷贝user1目录本身。
+    即格式为：cp -rf 原路径/ 目的路径/
+```
+
 ```
 修改文件属主
 http://jingyan.baidu.com/article/b87fe19e9ae09b5219356848.html
