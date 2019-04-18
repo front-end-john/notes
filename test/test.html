@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>test</title>
+</head>
+<body>
+<script>
+  function MemberManager (members) {
+    this.members = members;
+  }
+  MemberManager.prototype.addMember = function (newMember) { // MemberManager.prototype 原型继承，声明addMember
+    this.members.push(newMember);
+  };
+  var allMembers = [
+    {'name': 'A', 'age': 21}, {'name': 'B', 'age': 18}
+  ];
+  // 原型继承缺点: 当父级的属性有引用类型的时候,任意一个实例修改了这个属性,其他实例都会受影响
+  var memberManager = new MemberManager(allMembers); // new 一个实例，memberManager成员有 A、B
+  var memberC = {'name': 'C', 'age': 20};
+  memberManager.addMember(memberC); // memberManager成员有 A、B、C
+
+  // console.log('allMembers:', allMembers);// allMembers成员有 A、B、C
+
+  allMembers = allMembers.slice(1); // slice(start, end) 方法可从已有的数组中返回选定的元素。allMembers成员有B、C
+  var memberD = {'name': 'D', 'age': 19};
+  memberManager.addMember(memberD); // memberManager成员有 A、B、C、D
+
+  // console.log(JSON.stringify(allMembers));
+  // console.log(JSON.stringify(memberManager.members));
+
+
+  function Foo() {
+    print = function () {
+      console.log(1);
+    };
+    return this;
+  }
+  Foo.print = function () {
+    console.log(2);
+  };
+  Foo.prototype.print = function () {
+    console.log(3);
+  }
+  var print = function () {
+    console.log(4);
+  }
+  function print() {
+    console.log(5);
+  }
+
+  Foo.print(); // 2
+  print(); // 4
+  Foo().print(); // 1  此处变量提升，Foo().print() 覆盖了父级的print()
+  print(); // 1
+  new Foo.print(); // 2
+  new Foo().print();// 3
+</script>
+</body>
+</html>

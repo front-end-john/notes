@@ -32,3 +32,7 @@ h5活体检测：https://ai.baidu.com/face-verify/mobile.html
 http://ai.baidu.com/forum/topic/show/865448
 
 ```
+
+## vue前端框架面试问题汇总
+
+[vue前端框架面试问题汇总](http://www.bslxx.com/p/3187.html)
