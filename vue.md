@@ -40,3 +40,5 @@ http://ai.baidu.com/forum/topic/show/865448
 [当面试官问你Vue响应式原理，你可以这么回答他](https://juejin.im/post/5adf0085518825673123da9a)
 
 [Vue 组件 data 为什么必须是函数？](https://juejin.im/entry/59225ff8a22b9d005885cb15)
+
+[Vue(ES6)中的data属性为什么不能是一个对象？](https://juejin.im/post/5b4c0a715188251acc22fdd7)
