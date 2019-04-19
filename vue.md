@@ -38,3 +38,5 @@ http://ai.baidu.com/forum/topic/show/865448
 [vue前端框架面试问题汇总](http://www.bslxx.com/p/3187.html)
 
 [当面试官问你Vue响应式原理，你可以这么回答他](https://juejin.im/post/5adf0085518825673123da9a)
+
+[Vue 组件 data 为什么必须是函数？](https://juejin.im/entry/59225ff8a22b9d005885cb15)
