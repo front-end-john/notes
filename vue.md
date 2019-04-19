@@ -36,3 +36,5 @@ http://ai.baidu.com/forum/topic/show/865448
 ## vue前端框架面试问题汇总
 
 [vue前端框架面试问题汇总](http://www.bslxx.com/p/3187.html)
+
+[当面试官问你Vue响应式原理，你可以这么回答他](https://juejin.im/post/5adf0085518825673123da9a)
