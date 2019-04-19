@@ -42,3 +42,5 @@ http://ai.baidu.com/forum/topic/show/865448
 [Vue 组件 data 为什么必须是函数？](https://juejin.im/entry/59225ff8a22b9d005885cb15)
 
 [Vue(ES6)中的data属性为什么不能是一个对象？](https://juejin.im/post/5b4c0a715188251acc22fdd7)
+
+[Vue2 原理浅谈](https://juejin.im/post/59f2845e6fb9a0451a759e85)
