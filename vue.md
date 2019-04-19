@@ -44,3 +44,5 @@ http://ai.baidu.com/forum/topic/show/865448
 [Vue(ES6)中的data属性为什么不能是一个对象？](https://juejin.im/post/5b4c0a715188251acc22fdd7)
 
 [Vue2 原理浅谈](https://juejin.im/post/59f2845e6fb9a0451a759e85)
+
+[this.$toast() 了解一下？](https://juejin.im/post/5ca20e426fb9a05e42555d1d)
