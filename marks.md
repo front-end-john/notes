@@ -10,7 +10,7 @@
 
 [MobX](https://cn.mobx.js.org/)
 
-[MobX](https://cn.mobx.js.org/)
+[百度网盘全速下载](http://pandownload.com/index.html)
 
 [码云、Github同时配置ssh key（转载）](https://blog.csdn.net/m0_37750720/article/details/82595237)
 
